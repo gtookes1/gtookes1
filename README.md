@@ -3,10 +3,10 @@ Sutdent of Course Careers 👩‍🎓|
 Becoming proficient in Azure Microsoft | 
 Animal Lover 🐶🐈<br>
 
-What I'm working on
-- Item 1
-- Item 2
-- Item 3
+What I'm working on....
+- New Sheriff In Town 🚓
+- Sheriff DC running Active Directoryville 🕵️‍♀️
+- Giving mayor Jane Doe her power 📛
 
 
 
