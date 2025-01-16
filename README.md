@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there 👋 | Glad you made it! 😃
+Sutdent of Course Careers 👩‍🎓| 
+Becoming proficient in Azure Microsoft | 
+Animal Lover 🐶🐈
+What I'm working on --> 
+What I’m working on 
+
+— Project 1 
+— Project 2 
+— Project 3
 
 <!--
 **gtookes1/gtookes1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
