@@ -1,12 +1,12 @@
 ## Hi there 👋 | Glad you made it! 😃
-Sutdent of Course Careers 👩‍🎓| 
+Student of Course Careers 👩‍🎓| 
 Becoming proficient in Azure Microsoft | 
 Animal Lover 🐶🐈<br>
 
-What I'm working on....
-- New Sheriff In Town 🚓
-- Sheriff DC running Active Directoryville 🕵️‍♀️
-- Giving mayor Jane Doe her power 📛
+Check out my recent projects....
+1. New Sheriff In Town 🚓
+2. Sheriff DC running Active Directoryville 🕵️‍♀️
+3. Giving mayor Jane Doe her power 📛
 
 
 
